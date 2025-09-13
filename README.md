@@ -41,10 +41,10 @@ Hey! I am Somenath Das, an aspiring full stack developer. I am always curious ab
 **Database:**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-**Cloud & Auth:**  
+**Cloud & Auth & Coding Tools:**  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-4285F4?logo=googlecloud&logoColor=white) 
-OAuth
+https://images-eds-ssl.xboxlive.com/image? url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxj7kCzMIlSC20SNjaJf9GmG15ocnF.zbBRgxMSlB7Ejh6FbgNzxLvZOoW7N3ML56fn3m5Z4MO.M8pYrCFVKIhqM-&format=source
 
 ---
 
