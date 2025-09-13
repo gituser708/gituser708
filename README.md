@@ -12,7 +12,11 @@ Hey! I am Somenath Das, an aspiring full stack developer. I am always curious ab
 
 ## 🚀 Tech Stack & Skills
 
-**Frontend:**  
+**Frontend:** 
+
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) 
@@ -28,6 +32,7 @@ Hey! I am Somenath Das, an aspiring full stack developer. I am always curious ab
 ![Yup](https://img.shields.io/badge/-Yup-FF9800?logo=checkmarx&logoColor=white)
 
 **Backend:**  
+
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)
@@ -39,9 +44,11 @@ Hey! I am Somenath Das, an aspiring full stack developer. I am always curious ab
 ![App Security](https://img.shields.io/badge/🛡️%20App%20Security-E53935?logo=datadog&logoColor=white)
 
 **Database:**  
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 **Cloud & Auth & Coding Tools:**  
+
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-4285F4?logo=googlecloud&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/Editor-VS_Code-blue?logo=visual-studio-code)
