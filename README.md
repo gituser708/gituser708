@@ -44,7 +44,13 @@ Hey! I am Somenath Das, an aspiring full stack developer. I am always curious ab
 **Cloud & Auth & Coding Tools:**  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-4285F4?logo=googlecloud&logoColor=white) 
-https://images-eds-ssl.xboxlive.com/image? url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxj7kCzMIlSC20SNjaJf9GmG15ocnF.zbBRgxMSlB7Ejh6FbgNzxLvZOoW7N3ML56fn3m5Z4MO.M8pYrCFVKIhqM-&format=source
+![VS Code](https://img.shields.io/badge/Editor-VS_Code-blue?logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/API-Postman-orange?logo=postman)
+![VS Code Insider](https://img.shields.io/badge/Editor-VS_Code_Insider-2ecc71?logo=visual-studio-code&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Image_CDN-Cloudinary-2ecc71?logo=cloudinary&logoColor=white)
+![Google Auth](https://img.shields.io/badge/Auth-Google_Auth-2ecc71?logo=google&logoColor=white)
+![Authorization](https://img.shields.io/badge/Security-Authorization-2ecc71?logo=auth0&logoColor=white)
+![OTP Login](https://img.shields.io/badge/Login-OTP_Enabled-2ecc71?logo=key&logoColor=white)
 
 ---
 
