@@ -24,12 +24,13 @@ Hey! I am Somenath Das, an aspiring full stack developer. I am always curious ab
 ![Chakra UI](https://img.shields.io/badge/-ChakraUI-319795?logo=chakraui&logoColor=white)  
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) 
 ![React Query](https://img.shields.io/badge/-ReactQuery-FF4154?logo=react-query&logoColor=white) 
-![Framer Motion](https://img.shields.io/badge/-FramerMotion-0055FF?logo=framer&logoColor=white)  
+![Framer Motion](https://img.shields.io/badge/-FramerMotion-0055FF?logo=framer&logoColor=white) 
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Formik](https://img.shields.io/badge/-Formik-6C47FF?logo=formkit&logoColor=white)
 ![Yup](https://img.shields.io/badge/-Yup-FF9800?logo=checkmarx&logoColor=white)
+
 
 **Backend:**  
 
